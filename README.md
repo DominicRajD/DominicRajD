@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi! I'm DominicRajD
 
-<!--
-**DominicRajD/DominicRajD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LeadAutomationTester
 
-Here are some ideas to get you started:
+Let's teach others and learn more.
+<h3>Languages and Tools Used</h3>
+<p>
+  <img alt="Manual Testing" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Mobile Testing" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Automation Tester" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+## GitHub Stats
+
+<a href="https://github.com/dominicrajD/dominicrajD">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicrajD" />
+</a>
+<a href="https://github.com/dominicrajD/dominicrajD">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=dominicrajD&show_icons=true" />
+</a>
